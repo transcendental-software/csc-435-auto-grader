@@ -1,0 +1,2 @@
+search poorhouse AND Transcriber
+* dataset1/folder8/Document11111.txt:3

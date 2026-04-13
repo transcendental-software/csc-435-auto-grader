@@ -1,0 +1,7 @@
+search illis
+* dataset1/folder1/Document10055.txt:2
+* dataset1/folder5/folderB/Document10706.txt:2
+* dataset1/folder4/Document10681.txt:1
+* dataset1/folder5/folderB/Document10704.txt:1
+* dataset1/folder5/folderB/Document10705.txt:1
+* dataset1/folder8/Document11136.txt:1

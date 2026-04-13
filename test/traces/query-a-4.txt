@@ -1,0 +1,10 @@
+search patrolling
+* dataset1/folder1/Document10081.txt:4
+* dataset1/folder1/Document10027.txt:1
+* dataset1/folder2/Document101.txt:1
+* dataset1/folder2/Document10201.txt:1
+* dataset1/folder3/folderA/Document10396.txt:1
+* dataset1/folder3/folderA/Document10445.txt:1
+* dataset1/folder4/Document10657.txt:1
+* dataset1/folder6/Document10765.txt:1
+* dataset1/folder6/Document10842.txt:1

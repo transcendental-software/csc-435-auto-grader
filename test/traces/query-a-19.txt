@@ -1,0 +1,9 @@
+search sunniest
+* dataset1/folder4/Document10516.txt:2
+* dataset1/folder1/Document10084.txt:1
+* dataset1/folder3/folderB/Document10463.txt:1
+* dataset1/folder3/folderB/Document10490.txt:1
+* dataset1/folder4/Document10519.txt:1
+* dataset1/folder6/Document1085.txt:1
+* dataset1/folder7/Document10926.txt:1
+* dataset1/folder8/Document11154.txt:1

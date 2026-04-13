@@ -1,0 +1,2 @@
+search Likewise AND Transcriber
+* dataset1/folder4/Document10600.txt:5

@@ -1,0 +1,11 @@
+search sixty-eight
+* dataset1/folder4/Document10600.txt:2
+* dataset1/folder1/Document10014.txt:1
+* dataset1/folder1/Document10060.txt:1
+* dataset1/folder2/folderA/Document10350.txt:1
+* dataset1/folder2/folderA/Document10370.txt:1
+* dataset1/folder4/Document10633.txt:1
+* dataset1/folder5/folderA/Document1068.txt:1
+* dataset1/folder6/Document10818.txt:1
+* dataset1/folder7/Document10954.txt:1
+* dataset1/folder7/folderD/Document11039.txt:1

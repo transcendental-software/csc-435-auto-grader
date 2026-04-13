@@ -1,0 +1,6 @@
+search stumbling AND plenteous
+* dataset1/folder4/Document10553.txt:18
+* dataset1/folder2/folderA/Document10358.txt:3
+* dataset1/folder3/Document1039.txt:2
+* dataset1/folder4/Document1051.txt:2
+* dataset1/folder4/Document10681.txt:2

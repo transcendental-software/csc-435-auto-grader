@@ -1,0 +1,3 @@
+search eyelashes AND writin
+* dataset1/folder1/Document10068.txt:5
+* dataset1/folder3/folderB/Document10473.txt:3

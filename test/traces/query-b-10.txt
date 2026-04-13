@@ -1,0 +1,11 @@
+search Madeira
+* dataset1/folder6/Document1085.txt:15
+* dataset1/folder6/Document10842.txt:10
+* dataset1/folder1/Document10109.txt:3
+* dataset1/folder1/Document10076.txt:2
+* dataset1/folder2/folderA/Document10370.txt:2
+* dataset1/folder7/folderD/Document11039.txt:2
+* dataset1/folder1/Document10044.txt:1
+* dataset1/folder1/Document10046.txt:1
+* dataset1/folder1/Document10094.txt:1
+* dataset1/folder1/Document10111.txt:1

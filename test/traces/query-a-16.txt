@@ -1,0 +1,7 @@
+search Ministerial
+* dataset1/folder1/Document10135.txt:2
+* dataset1/folder1/Document10044.txt:1
+* dataset1/folder2/folderA/Document10366.txt:1
+* dataset1/folder4/Document1051.txt:1
+* dataset1/folder4/Document10670.txt:1
+* dataset1/folder8/Document11142.txt:1

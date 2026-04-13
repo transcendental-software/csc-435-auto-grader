@@ -1,0 +1,3 @@
+search cataract AND propaganda
+* dataset1/folder4/Document10681.txt:7
+* dataset1/folder8/Document11057.txt:4

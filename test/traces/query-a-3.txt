@@ -1,0 +1,6 @@
+search SONS
+* dataset1/folder6/Document10777.txt:3
+* dataset1/folder6/Document10852.txt:2
+* dataset1/folder4/Document10607.txt:1
+* dataset1/folder6/Document10751.txt:1
+* dataset1/folder6/Document10842.txt:1

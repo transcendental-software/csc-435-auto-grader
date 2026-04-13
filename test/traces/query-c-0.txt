@@ -1,0 +1,11 @@
+search undeserved AND amazing
+* dataset1/folder2/folderA/Document10366.txt:6
+* dataset1/folder3/folderB/Document10509.txt:5
+* dataset1/folder4/Document10600.txt:5
+* dataset1/folder6/Document10807.txt:5
+* dataset1/folder2/folderA/Document10358.txt:4
+* dataset1/folder1/Document10029.txt:3
+* dataset1/folder2/folderA/Document10352.txt:3
+* dataset1/folder4/Document1052.txt:3
+* dataset1/folder2/folderA/Document10350.txt:2
+* dataset1/folder5/folderB/Document10706.txt:2

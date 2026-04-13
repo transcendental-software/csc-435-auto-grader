@@ -1,0 +1,6 @@
+search crittur
+* dataset1/folder5/folderC/Document10723.txt:4
+* dataset1/folder3/folderB/Document10464.txt:2
+* dataset1/folder6/Document10765.txt:2
+* dataset1/folder8/Document11171.txt:2
+* dataset1/folder2/folderA/Document10359.txt:1

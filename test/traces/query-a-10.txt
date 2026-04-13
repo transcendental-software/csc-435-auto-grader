@@ -1,0 +1,9 @@
+search Missionaries
+* dataset1/folder3/Document1039.txt:4
+* dataset1/folder1/Document10022.txt:3
+* dataset1/folder4/Document1051.txt:1
+* dataset1/folder4/Document10633.txt:1
+* dataset1/folder7/Document1091.txt:1
+* dataset1/folder7/Document10929.txt:1
+* dataset1/folder7/folderA/Document10968.txt:1
+* dataset1/folder7/folderD/Document11039.txt:1

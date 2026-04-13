@@ -1,0 +1,11 @@
+search cataract
+* dataset1/folder3/Document1039.txt:7
+* dataset1/folder7/folderC/Document10998.txt:7
+* dataset1/folder7/Document10929.txt:6
+* dataset1/folder6/Document1085.txt:4
+* dataset1/folder4/Document10681.txt:3
+* dataset1/folder1/Document10084.txt:2
+* dataset1/folder6/Document10765.txt:2
+* dataset1/folder8/Document11057.txt:2
+* dataset1/folder1/Document10032.txt:1
+* dataset1/folder1/Document10064.txt:1

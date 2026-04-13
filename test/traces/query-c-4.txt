@@ -1,0 +1,5 @@
+search committees AND scantiness
+* dataset1/folder4/Document10633.txt:14
+* dataset1/folder6/Document10807.txt:11
+* dataset1/folder2/folderA/Document10350.txt:2
+* dataset1/folder6/Document1085.txt:2

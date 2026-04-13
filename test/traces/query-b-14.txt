@@ -1,0 +1,11 @@
+search Likewise
+* dataset1/folder4/Document10553.txt:29
+* dataset1/folder6/Document10745.txt:8
+* dataset1/folder6/Document10753.txt:5
+* dataset1/folder4/Document10600.txt:4
+* dataset1/folder1/Document10046.txt:3
+* dataset1/folder2/Document10201.txt:3
+* dataset1/folder2/Document10274.txt:3
+* dataset1/folder6/Document10890.txt:3
+* dataset1/folder7/Document1096.txt:3
+* dataset1/folder4/Document10674.txt:2

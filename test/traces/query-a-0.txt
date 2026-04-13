@@ -1,0 +1,6 @@
+search reconcilable
+* dataset1/folder4/Document10633.txt:4
+* dataset1/folder6/Document10807.txt:2
+* dataset1/folder4/Document10616.txt:1
+* dataset1/folder4/Document10681.txt:1
+* dataset1/folder7/folderD/Document11034.txt:1

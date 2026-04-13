@@ -1,0 +1,11 @@
+search propaganda
+* dataset1/folder5/folderC/Document10725.txt:7
+* dataset1/folder2/Document101.txt:5
+* dataset1/folder2/folderA/Document10366.txt:4
+* dataset1/folder4/Document10681.txt:4
+* dataset1/folder8/Document11142.txt:3
+* dataset1/folder6/Document10753.txt:2
+* dataset1/folder8/Document11057.txt:2
+* dataset1/folder1/Document10113.txt:1
+* dataset1/folder2/Document10201.txt:1
+* dataset1/folder2/folderA/Document10358.txt:1

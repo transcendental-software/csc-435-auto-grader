@@ -1,0 +1,11 @@
+search scantiness
+* dataset1/folder3/Document1043.txt:2
+* dataset1/folder1/Document10005.txt:1
+* dataset1/folder1/Document10135.txt:1
+* dataset1/folder2/folderA/Document10350.txt:1
+* dataset1/folder4/Document1052.txt:1
+* dataset1/folder4/Document10616.txt:1
+* dataset1/folder4/Document10633.txt:1
+* dataset1/folder4/Document10657.txt:1
+* dataset1/folder4/Document10681.txt:1
+* dataset1/folder5/folderB/Document10705.txt:1

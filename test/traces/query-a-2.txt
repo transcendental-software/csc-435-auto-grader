@@ -1,0 +1,6 @@
+search war-whoops
+* dataset1/folder1/Document10086.txt:3
+* dataset1/folder2/Document10268.txt:1
+* dataset1/folder2/folderA/Document10370.txt:1
+* dataset1/folder3/folderB/Document10479.txt:1
+* dataset1/folder8/Document11154.txt:1

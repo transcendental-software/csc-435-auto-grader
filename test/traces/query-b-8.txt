@@ -1,0 +1,11 @@
+search committees
+* dataset1/folder4/Document10633.txt:13
+* dataset1/folder2/Document1025.txt:11
+* dataset1/folder5/folderB/Document10700.txt:11
+* dataset1/folder6/Document10807.txt:10
+* dataset1/folder1/Document10126.txt:6
+* dataset1/folder8/Document11114.txt:6
+* dataset1/folder4/Document10647.txt:5
+* dataset1/folder7/folderC/Document11021.txt:5
+* dataset1/folder7/folderA/Document10956.txt:3
+* dataset1/folder1/Document10092.txt:2

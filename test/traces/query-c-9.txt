@@ -1,0 +1,4 @@
+search robbery AND Lions
+* dataset1/folder4/Document10600.txt:5
+* dataset1/folder3/folderA/Document10422.txt:3
+* dataset1/folder8/Document11154.txt:2

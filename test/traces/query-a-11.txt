@@ -1,0 +1,9 @@
+search Movements
+* dataset1/folder5/folderB/Document10706.txt:3
+* dataset1/folder7/folderA/Document10968.txt:3
+* dataset1/folder4/Document10674.txt:2
+* dataset1/folder5/folderB/Document10704.txt:2
+* dataset1/folder1/Document10059.txt:1
+* dataset1/folder2/folderA/Document10374.txt:1
+* dataset1/folder5/folderB/Document10705.txt:1
+* dataset1/folder6/Document10753.txt:1

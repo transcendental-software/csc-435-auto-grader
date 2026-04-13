@@ -1,0 +1,3 @@
+search Madeira AND dried-up
+* dataset1/folder7/folderD/Document11039.txt:3
+* dataset1/folder3/Document1039.txt:2

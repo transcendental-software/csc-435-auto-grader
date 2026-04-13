@@ -1,0 +1,11 @@
+search writin
+* dataset1/folder7/folderB/Document10988.txt:18
+* dataset1/folder7/Document10926.txt:4
+* dataset1/folder1/Document10068.txt:3
+* dataset1/folder3/folderB/Document10460.txt:3
+* dataset1/folder1/Document10059.txt:2
+* dataset1/folder6/Document10886.txt:2
+* dataset1/folder1/Document10047.txt:1
+* dataset1/folder1/Document10087.txt:1
+* dataset1/folder2/Document10221.txt:1
+* dataset1/folder2/folderA/Document10340.txt:1

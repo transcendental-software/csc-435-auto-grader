@@ -1,0 +1,5 @@
+search amazing AND sixty-eight
+* dataset1/folder6/Document10818.txt:14
+* dataset1/folder4/Document10600.txt:6
+* dataset1/folder1/Document10060.txt:2
+* dataset1/folder2/folderA/Document10350.txt:2

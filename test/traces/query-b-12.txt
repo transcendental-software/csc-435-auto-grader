@@ -1,0 +1,11 @@
+search stumbling
+* dataset1/folder1/Document10064.txt:21
+* dataset1/folder4/Document10553.txt:4
+* dataset1/folder4/Document10662.txt:4
+* dataset1/folder6/Document10862.txt:4
+* dataset1/folder1/Document10046.txt:3
+* dataset1/folder1/Document10051.txt:3
+* dataset1/folder4/Document10601.txt:3
+* dataset1/folder7/Document10930.txt:3
+* dataset1/folder1/Document10086.txt:2
+* dataset1/folder2/Document10316.txt:2

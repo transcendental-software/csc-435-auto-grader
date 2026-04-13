@@ -1,0 +1,11 @@
+search poorhouse
+* dataset1/folder1/Document10087.txt:16
+* dataset1/folder5/folderC/Document10729.txt:7
+* dataset1/folder2/folderA/Document10359.txt:2
+* dataset1/folder8/Document11111.txt:2
+* dataset1/folder1/Document10123.txt:1
+* dataset1/folder1/Document10126.txt:1
+* dataset1/folder3/Document10393.txt:1
+* dataset1/folder4/Document10681.txt:1
+* dataset1/folder5/folderB/Document10704.txt:1
+* dataset1/folder5/folderB/Document10706.txt:1

@@ -1,0 +1,8 @@
+search Creep
+* dataset1/folder1/Document10131.txt:2
+* dataset1/folder1/Document10092.txt:1
+* dataset1/folder3/folderB/Document10490.txt:1
+* dataset1/folder6/Document10850.txt:1
+* dataset1/folder7/folderD/Document11027.txt:1
+* dataset1/folder8/Document1105.txt:1
+* dataset1/folder8/Document11064.txt:1

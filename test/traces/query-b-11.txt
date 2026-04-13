@@ -1,0 +1,11 @@
+search dried-up
+* dataset1/folder1/Document10101.txt:1
+* dataset1/folder2/Document10211.txt:1
+* dataset1/folder3/Document1039.txt:1
+* dataset1/folder3/Document1049.txt:1
+* dataset1/folder6/Document10810.txt:1
+* dataset1/folder6/Document10818.txt:1
+* dataset1/folder6/Document10840.txt:1
+* dataset1/folder6/Document10891.txt:1
+* dataset1/folder7/folderD/Document11039.txt:1
+* dataset1/folder8/Document11157.txt:1

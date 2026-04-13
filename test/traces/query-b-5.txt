@@ -1,0 +1,11 @@
+search ribaldry
+* dataset1/folder2/folderA/Document10364.txt:3
+* dataset1/folder4/Document10681.txt:3
+* dataset1/folder1/Document10005.txt:1
+* dataset1/folder1/Document10047.txt:1
+* dataset1/folder1/Document10064.txt:1
+* dataset1/folder2/Document10210.txt:1
+* dataset1/folder2/folderA/Document10358.txt:1
+* dataset1/folder3/folderB/Document10474.txt:1
+* dataset1/folder4/Document1050.txt:1
+* dataset1/folder7/folderC/Document11025.txt:1

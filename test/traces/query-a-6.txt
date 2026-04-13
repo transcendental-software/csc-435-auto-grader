@@ -1,0 +1,6 @@
+search Dusty
+* dataset1/folder4/Document10607.txt:4
+* dataset1/folder7/folderC/Document11004.txt:3
+* dataset1/folder1/Document10066.txt:1
+* dataset1/folder2/Document10148.txt:1
+* dataset1/folder7/folderB/Document10991.txt:1

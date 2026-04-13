@@ -1,0 +1,11 @@
+search robbery
+* dataset1/folder4/Document10633.txt:16
+* dataset1/folder3/folderA/Document10443.txt:12
+* dataset1/folder5/folderB/Document10706.txt:11
+* dataset1/folder4/Document10576.txt:7
+* dataset1/folder2/folderA/Document10359.txt:6
+* dataset1/folder3/folderA/Document10432.txt:6
+* dataset1/folder7/Document10954.txt:6
+* dataset1/folder2/folderA/Document10366.txt:5
+* dataset1/folder5/folderB/Document10705.txt:5
+* dataset1/folder7/folderB/Document10985.txt:5

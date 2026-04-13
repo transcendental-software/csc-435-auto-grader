@@ -1,0 +1,11 @@
+search eyelashes
+* dataset1/folder6/Document10744.txt:3
+* dataset1/folder1/Document10068.txt:2
+* dataset1/folder2/folderA/Document10322.txt:2
+* dataset1/folder3/folderB/Document10473.txt:2
+* dataset1/folder8/Document11082.txt:2
+* dataset1/folder1/Document10082.txt:1
+* dataset1/folder1/Document10111.txt:1
+* dataset1/folder2/Document10226.txt:1
+* dataset1/folder2/Document1033.txt:1
+* dataset1/folder3/folderB/Document10508.txt:1

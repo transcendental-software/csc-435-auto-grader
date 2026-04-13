@@ -1,0 +1,10 @@
+search worm-eaten
+* dataset1/folder2/folderA/Document10358.txt:2
+* dataset1/folder3/Document1039.txt:2
+* dataset1/folder1/Document10009.txt:1
+* dataset1/folder2/Document10268.txt:1
+* dataset1/folder4/Document10681.txt:1
+* dataset1/folder5/folderC/Document10728.txt:1
+* dataset1/folder7/Document10926.txt:1
+* dataset1/folder7/folderD/Document11039.txt:1
+* dataset1/folder8/Document11159.txt:1
