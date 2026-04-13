@@ -199,7 +199,7 @@ def check_outputs(selected_a, selected_b, selected_c, queries_a, queries_b, quer
     sections = {'a': selected_a, 'b': selected_b, 'c': selected_c}
     queries = {'a': queries_a, 'b': queries_b, 'c': queries_c}
     score = 0
-    i = 0
+    i = 1
     
     for section, indices in sections.items():
         for index in indices:
