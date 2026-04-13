@@ -244,7 +244,7 @@ def check_outputs(selected_a, selected_b, selected_c, queries_a, queries_b, quer
                     print(f"  -> Processed Log Results:\n" + "\n".join(log_results))
                     print(f"  -> Processed Trace Results:\n" + "\n".join(trace_results))
             except FileNotFoundError as e:
-                print(f"Query {section}-{index}: File not found - {e}")
+                print(f"Query {section}-{index}: File not found (probably incorrect program output) - {e}")
             except Exception as e:
                 print(f"Query {section}-{index}: Error comparing outputs - {e}")
             i += 1
