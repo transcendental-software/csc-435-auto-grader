@@ -13,12 +13,12 @@ import time
 import re
 
 # Constants for file paths
-QUERIES_A_PATH = "../tests/traces/queries-a.txt"
-QUERIES_B_PATH = "../tests/traces/queries-b.txt"
-QUERIES_C_PATH = "../tests/traces/queries-c.txt"
+QUERIES_A_PATH = "../test/traces/queries-a.txt"
+QUERIES_B_PATH = "../test/traces/queries-b.txt"
+QUERIES_C_PATH = "../test/traces/queries-c.txt"
 DATASET_BASE_PATH = "../datasets/dataset1_client_server"
-LOGS_DIR = 'tests/logs'
-TRACES_DIR = 'tests/traces'
+LOGS_DIR = 'test/logs'
+TRACES_DIR = 'test/traces'
 README_PATH = 'README.md'
 APP_JAVA_DIR = 'app-java'
 APP_CPP_DIR = 'app-cpp'
